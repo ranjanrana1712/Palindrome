@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(50deg, rgb(219, 219, 166) 50%, rgb(172, 172, 235) 50%);
+}
+
+#show-btn{
+    background-color: yellow;
+}
